@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Documents\\Unity\\Assignment02\\",
+  "WorkspaceRootPath": "C:\\Users\\Adam\\Documents\\GitHub\\Assignment02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8C49AC1-26B4-6F79-1853-4839C876E00A}|Assembly-CSharp.csproj|e:\\documents\\unity\\assignment02\\assets\\scripts\\inputhandlerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8C49AC1-26B4-6F79-1853-4839C876E00A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inputhandlerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8C49AC1-26B4-6F79-1853-4839C876E00A}|Assembly-CSharp.csproj|C:\\Users\\Adam\\Documents\\GitHub\\Assignment02\\assets\\scripts\\colorchangescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C49AC1-26B4-6F79-1853-4839C876E00A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\colorchangescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8C49AC1-26B4-6F79-1853-4839C876E00A}|Assembly-CSharp.csproj|E:\\Documents\\Unity\\Assignment02\\assets\\scripts\\colorchangescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8C49AC1-26B4-6F79-1853-4839C876E00A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\colorchangescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8C49AC1-26B4-6F79-1853-4839C876E00A}|Assembly-CSharp.csproj|c:\\users\\adam\\documents\\github\\assignment02\\assets\\scripts\\inputhandlerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C49AC1-26B4-6F79-1853-4839C876E00A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inputhandlerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,15 +18,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ColorChangeScript.cs",
-              "DocumentMoniker": "E:\\Documents\\Unity\\Assignment02\\Assets\\Scripts\\ColorChangeScript.cs",
+              "DocumentMoniker": "C:\\Users\\Adam\\Documents\\GitHub\\Assignment02\\Assets\\Scripts\\ColorChangeScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ColorChangeScript.cs",
-              "ToolTip": "E:\\Documents\\Unity\\Assignment02\\Assets\\Scripts\\ColorChangeScript.cs",
+              "ToolTip": "C:\\Users\\Adam\\Documents\\GitHub\\Assignment02\\Assets\\Scripts\\ColorChangeScript.cs",
               "RelativeToolTip": "Assets\\Scripts\\ColorChangeScript.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -35,11 +35,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "InputHandlerScript.cs",
-              "DocumentMoniker": "E:\\Documents\\Unity\\Assignment02\\Assets\\Scripts\\InputHandlerScript.cs",
+              "DocumentMoniker": "C:\\Users\\Adam\\Documents\\GitHub\\Assignment02\\Assets\\Scripts\\InputHandlerScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\InputHandlerScript.cs",
-              "ToolTip": "E:\\Documents\\Unity\\Assignment02\\Assets\\Scripts\\InputHandlerScript.cs",
+              "ToolTip": "C:\\Users\\Adam\\Documents\\GitHub\\Assignment02\\Assets\\Scripts\\InputHandlerScript.cs",
               "RelativeToolTip": "Assets\\Scripts\\InputHandlerScript.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
