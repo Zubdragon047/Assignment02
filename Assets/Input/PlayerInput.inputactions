@@ -2,13 +2,13 @@
     "name": "PlayerInput",
     "maps": [
         {
-            "name": "Gameplay",
-            "id": "55153d38-249b-4b93-ad81-6a7e281e659d",
+            "name": "GamePlay",
+            "id": "9e318bba-364a-4e6f-9af9-e52dabcc8af9",
             "actions": [
                 {
                     "name": "Click",
                     "type": "Button",
-                    "id": "38cabe26-551f-41b2-abb4-2dbeaec6bc75",
+                    "id": "b5cb9707-1315-42ce-9685-7360ab686fa3",
                     "expectedControlType": "Button",
                     "processors": "",
                     "interactions": "",
@@ -18,7 +18,7 @@
             "bindings": [
                 {
                     "name": "",
-                    "id": "fb6e9890-dc2a-464d-bc25-03db21d1862e",
+                    "id": "ab063923-9dee-42eb-a655-1412ac5b2669",
                     "path": "<Mouse>/leftButton",
                     "interactions": "",
                     "processors": "",
