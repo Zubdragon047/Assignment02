@@ -495,7 +495,7 @@ SpriteRenderer:
   m_Size: {x: 25.6, y: 16}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &774523563
@@ -507,8 +507,8 @@ Transform:
   m_GameObject: {fileID: 774523561}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.8219, y: 0.9653, z: 0}
-  m_LocalScale: {x: 1.505575, y: 1.5350107, z: 1}
+  m_LocalPosition: {x: -0.088, y: 0.4681, z: 0}
+  m_LocalScale: {x: 1.366921, y: 1.1355191, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -847,8 +847,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7c253d5ac2ef984449d60d908bd445db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  device: 0
-  width: 1
+  device: 1
+  width: 2
   distance: 2
   time: 0
   finalTime: 0
@@ -1043,7 +1043,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 62899f850307741f2a39c98a8b639597, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Actions: {fileID: -944628639613478452, guid: a3f64f6aac90b104b8552616c6d648e1, type: 3}
+  m_Actions: {fileID: -944628639613478452, guid: 8fce5617b5fce284489e7e7544d4d051, type: 3}
   m_NotificationBehavior: 2
   m_UIInputModule: {fileID: 0}
   m_DeviceLostEvent:
@@ -1057,12 +1057,24 @@ MonoBehaviour:
       m_Calls: []
   m_ActionEvents:
   - m_PersistentCalls:
-      m_Calls: []
-    m_ActionId: 38cabe26-551f-41b2-abb4-2dbeaec6bc75
-    m_ActionName: Gameplay/Click[/Mouse/leftButton]
+      m_Calls:
+      - m_Target: {fileID: 1394374381}
+        m_TargetAssemblyTypeName: InputHandler, Assembly-CSharp
+        m_MethodName: OnClick
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_ActionId: b5cb9707-1315-42ce-9685-7360ab686fa3
+    m_ActionName: GamePlay/Click[/Mouse/leftButton]
   m_NeverAutoSwitchControlSchemes: 0
   m_DefaultControlScheme: 
-  m_DefaultActionMap: Gameplay
+  m_DefaultActionMap: GamePlay
   m_SplitScreenIndex: -1
   m_Camera: {fileID: 0}
 --- !u!4 &1394374383

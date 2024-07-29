@@ -6,7 +6,7 @@ using UnityEngine;
 public class DataLogger : MonoBehaviour
 {
     private string filename = "";
-    private string participant_id = "p_test3";
+    private string participant_id = "adam";
     public enum Device {mouse, touchpad};
     public Device device;
     public enum WIdth {one, two, three};
